@@ -945,6 +945,75 @@ pre code {
   }
 
   @media (max-width: 485px) {
+    .hello {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    h1 {
+        font-size: 24px;
+        line-height: 2.5;
+        margin-bottom: 10px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .timeline{
+        padding: 0px 9px;
+    }
+    .timeline-date {
+        flex: 0 0 134px;
+        margin-right: 16px;
+    }
+    .timeline-circle{
+        flex: 0 0 50px;
+    }
+
+    .timeline-description {
+        padding-bottom: 85px;
+        margin-left: 13px;
+        font-size: 13.9888px;
+    }
+
+    .education-timeline{
+        margin-bottom: 60px;
+    }
+
+    .english-title{
+        margin-bottom: 30px;
+    }
+    .sertificat-english {
+        margin-right: 0px;
+    }
+    .code-title{
+        margin-bottom: 30px;
+    }
+    .card-code {
+        line-height: 15px;
+        font-size: 9px;
+        max-width: 27%;
+    }
+
+    .contact-items{
+        display: block;
+        text-align: center;
+       
+    }
+    .contact-item{
+        margin-bottom: 7px;
+    }
+    .information-english{
+        display: none;
+    }
+    .about{
+        margin-bottom: 50px;
+    }
+    .skill{
+        margin-bottom: 50px;
+    }
+    .header-title{
+        padding: 6px 19px;
+    }
       .avatar{
         margin-bottom: 40px;
       }
@@ -954,9 +1023,13 @@ pre code {
     .avatar-about{
         display: none;
     }
+    .about-information h2 {
+        margin-top: 4px;
+        margin-bottom: 15px;
+    }
     .about-information p {
-        font-size: 2.5vw;
-        line-height: 155%;
+        font-size: 14px;
+        line-height: 1.5;
     }
     .about-information {
         width: 100%;

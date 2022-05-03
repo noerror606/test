@@ -1,2 +1,2 @@
 rsschool-cv 
- https://noerror606.github.io/test
+ https://noerror606.github.io/rsschool-cv
